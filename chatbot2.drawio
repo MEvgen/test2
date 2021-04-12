@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T19:16:23.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="mnlnetEQEM2Q2CQ5MdF_" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-12T20:39:28.683Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="DuLLc2KQp4cLpt-4XlX-" version="14.5.7" type="github">
   <diagram id="VPsbSxtzRYap7X6kAkk0" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
         <mxCell id="A-kss5NYeXnSZSWgqj85-3" value="Залишити&lt;br&gt;заявку" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A-kss5NYeXnSZSWgqj85-6" value="Вивід товару" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="A-kss5NYeXnSZSWgqj85-6" value="Картка товару" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A-kss5NYeXnSZSWgqj85-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="A-kss5NYeXnSZSWgqj85-8" target="A-kss5NYeXnSZSWgqj85-10" edge="1">
@@ -92,11 +92,11 @@
             <mxPoint x="740" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A-kss5NYeXnSZSWgqj85-19" value="Вивід інформації" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="A-kss5NYeXnSZSWgqj85-19" value="Картка з &lt;br&gt;інформацією" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="515" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A-kss5NYeXnSZSWgqj85-20" value="База даних" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="330" y="545" width="106" height="80" as="geometry" />
+          <mxGeometry x="330" y="540" width="106" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A-kss5NYeXnSZSWgqj85-23" value="Електрона пошта" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="1" vertex="1">
           <mxGeometry x="500" y="550" width="120" height="80" as="geometry" />
