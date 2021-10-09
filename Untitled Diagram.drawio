@@ -1,1 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2021-10-09T20:54:59.521Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" version="15.4.1" etag="sJAnRNGLWoNQXUJ3fI6g" type="github"><diagram id="2YRP4LE6906Ol6hoUUW4">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-09T21:33:38.396Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="_j7877oa_l--KlCsxbRq" version="15.4.1" type="github">
+  <diagram id="2YRP4LE6906Ol6hoUUW4" name="Page-1">
+    <mxGraphModel dx="1635" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="boR7mhczYSXmn-uaMwtg-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="169" y="360" width="490" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="boR7mhczYSXmn-uaMwtg-2" value="&lt;font style=&quot;font-size: 19px&quot;&gt;&lt;br&gt;БД&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="190" y="530" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="boR7mhczYSXmn-uaMwtg-3" value="Система модулей" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;fontSize=19;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="380" y="380" width="240" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="boR7mhczYSXmn-uaMwtg-4" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Модуль ручного &lt;br&gt;введеня&lt;/font&gt;" style="html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="417.5" y="430" width="165" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="boR7mhczYSXmn-uaMwtg-5" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Модуль імпорту &lt;br&gt;даних з Google Scholar&lt;/font&gt;" style="html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="420" y="501" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="boR7mhczYSXmn-uaMwtg-6" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Модуль аналізу &lt;br&gt;бібліографії&lt;/font&gt;" style="html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="420" y="572" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="boR7mhczYSXmn-uaMwtg-7" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Модуль зміни даних&lt;/font&gt;" style="html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="420" y="644" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="boR7mhczYSXmn-uaMwtg-8" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Модуль аналізу &lt;br&gt;транзакцій&lt;/font&gt;" style="html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="420" y="719" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="boR7mhczYSXmn-uaMwtg-9" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Модуль виводу даних&amp;nbsp;&lt;br&gt;у СИНАП або на сайт кафедри&lt;br&gt;&lt;/font&gt;" style="html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="410" y="790" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="boR7mhczYSXmn-uaMwtg-11" value="Google Scholar API" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="700" y="517.5" width="220" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="boR7mhczYSXmn-uaMwtg-12" value="Сайт кафедри&lt;br&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;https://znuiepf.com.ua/&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="430" y="923" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="boR7mhczYSXmn-uaMwtg-13" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="510" y="870" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="boR7mhczYSXmn-uaMwtg-16" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="340" y="557" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="boR7mhczYSXmn-uaMwtg-24" value="" style="endArrow=none;startArrow=classic;html=1;rounded=0;fontSize=12;align=right;verticalAlign=bottom;edgeStyle=orthogonalEdgeStyle;endFill=0;entryX=0.125;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="boR7mhczYSXmn-uaMwtg-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="550" as="sourcePoint" />
+            <mxPoint x="720" y="550" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="boR7mhczYSXmn-uaMwtg-25" value="Відповідь" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="670" y="517.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="boR7mhczYSXmn-uaMwtg-28" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;fontSize=12;align=right;verticalAlign=bottom;edgeStyle=orthogonalEdgeStyle;endFill=1;entryX=0.125;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="659" y="581.78" as="sourcePoint" />
+            <mxPoint x="726.5" y="581.98" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="582" />
+              <mxPoint x="710" y="582" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="boR7mhczYSXmn-uaMwtg-29" value="Запит" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="664" y="585" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="boR7mhczYSXmn-uaMwtg-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;align=right;verticalAlign=bottom;" edge="1" parent="1" source="boR7mhczYSXmn-uaMwtg-30" target="boR7mhczYSXmn-uaMwtg-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="boR7mhczYSXmn-uaMwtg-30" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.users;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="169" y="910" width="71" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="boR7mhczYSXmn-uaMwtg-34" value="PHP/JS&amp;nbsp; додаток" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="297.5" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="boR7mhczYSXmn-uaMwtg-36" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;fontSize=12;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="875" width="60" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
